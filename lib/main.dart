@@ -10,6 +10,7 @@ int multiplaSoma(int numero) {
       soma += i;
     }
   }
+  
   // retorna valor da soma
   return soma;
 }
